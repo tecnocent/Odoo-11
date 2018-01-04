@@ -1,0 +1,4 @@
+[submodule "tecnocent/Ama-Od"]
+	path = tecnocent/Ama-Od
+	url = git@github.com:tecnocent/Ama-Od.git
+	branch = master
